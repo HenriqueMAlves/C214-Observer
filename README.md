@@ -14,7 +14,7 @@ gem install ceedling
 # Instalação
 Para instalar o projeto, primeiro é necessário realizar a clonagem dele. Para cloná-lo basta executar o comando:
 ```
-git clone https://github.com/HenriqueMAlves/C214-Strategy.git
+git clone https://github.com/HenriqueMAlves/C214-Observer.git
 ```
 
 # Executando os testes
